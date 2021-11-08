@@ -38,7 +38,21 @@ Can't pick one? Let's use them `*_all_*`.
 Taken from:
 https://docs.antora.org/antora/2.0/asciidoc/in-page-xref/
 
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 .
 .
 .
@@ -91,6 +105,19 @@ This is an in-page cross reference: <<Reference a section in the same page>>.
 .
 .
 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 
 
 
