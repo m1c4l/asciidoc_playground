@@ -1,4 +1,8 @@
-Taken from:
+
+
+:hardbreaks-option:
+
+Taken from: https://docs.asciidoctor.org
 
 It has *strong* significance to me.
 
